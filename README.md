@@ -6,4 +6,4 @@ by Sanjay Vinod Kumara, Albert A. Smith-Penzelb, Venkata SubbaRao Redrouthua†,
 
 Jupyter notebooks (.ipynb) can be opened and run on Google Colab, by clicking the Colab button on top from the github file.
 
-A copy of SLEEPY has been provided. SLEEPY is still under development, so the code may be changed (although we expect remaining changes to be minor). The version provided here will be preserved, whereas the final version may differ. Please note that SLEEPY is copywrited by Albert A. Smith-Penzel under the GNU General Public License. A copy of the license file has been provided in the file LICENSE.
+A copy of SLEEPY has been provided, where SLEEPY was used to perform simulations found in this archive. SLEEPY is still under development, so the code may be changed (although we expect remaining changes to be minor). The version provided here will be preserved, whereas the final version may differ. Please note that SLEEPY is copywrited by Albert A. Smith-Penzel under the GNU General Public License. A copy of the license file has been provided in the file LICENSE.
