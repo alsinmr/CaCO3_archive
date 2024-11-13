@@ -2,7 +2,7 @@ This archive provides python scripts required for generating Figure 6 and SI Fig
 
 "Monohydrocalcite as a reference material to investigate amorphous calcium carbonate: an NMR perspective"
 
-by Sanjay Vinod Kumara, Albert A. Smith-Penzelb, Venkata SubbaRao Redrouthua†, Maxim B. Gindelec‡, Denis Gebauerc, and Guinevere Mathiesa*
+by Sanjay Vinod Kumar, Albert A. Smith-Penzel, Venkata SubbaRao Redrouthu, Maxim B. Gindele, Denis Gebauec, and Guinevere Mathies
 
 Jupyter notebooks (.ipynb) can be opened and run on Google Colab, by clicking the Colab button on top from the github file.
 
